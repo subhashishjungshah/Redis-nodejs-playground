@@ -18,5 +18,5 @@ Before diving into the examples, ensure that you have the following installed:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/learning-nodejs-redis.git
+git clone https://github.com/subhashishjungshah/Redis-nodejs-playground.git
 ```
